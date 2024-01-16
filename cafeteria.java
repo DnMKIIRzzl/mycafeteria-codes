@@ -12,7 +12,7 @@ public class cafeteria{
 
 	do{
 	System.out.println("\n\n\nChoose a Category: ");
-	System.out.println("[A] Snacks? [B] Drinks? [C] Desserts?: ");
+	System.out.println("[A] Snacks? [B] Wow? [C] Desserts?: ");
 	menu = myObj.next();
 	switch(menu){
 		case "a":
